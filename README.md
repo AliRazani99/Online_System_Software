@@ -3,19 +3,53 @@ The patient appointment system is a website that includes all the tasks and step
 
 
 
+# Technical Specifications
+- **Platform:** web
+- **Programming language:** html,css and javascript
+- **Data base:** Microsoft Sql Server 2014
 
 
-## LINKS
+# Project Requirements
 
-### introduction
-
-- [Scenario](https://github.com/AliRazani99/Online_System_Software/tree/main/introduction)
-
-
-
+### Functional Requirements
+1. 
+2. 
+3. 
 
 
-## Devlopers
+### non-Functional Requirements
+1. 
+2. 
+3. 
+
+
+# Project documentation
+
+## Requirement assessment and project scenario
+
+
+- [Project Scenario](https://github.com/AliRazani99/Online_System_Software/tree/main/Documentaion/Requirements_and_scenario)
+
+
+- [Requirements assessment](https://github.com/AliRazani99/Online_System_Software/tree/main/Documentaion/Requirements_and_scenario)
+
+
+## System analysis and design
+
+
+
+## Project phasing scenario
+
+
+
+
+
+
+
+
+
+
+## Project members
   fullName|Id|Role
   --------|--|----
   sudemirzaei|@sudemirzaei|back end developer
