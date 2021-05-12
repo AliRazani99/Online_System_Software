@@ -24,7 +24,8 @@ In this system, we have two types of patients:
   3. Each doctor records information such as first name,last name, national code, specialty and hours of attendance in the system
   4. each patient can visit doctors in diffrent specialty and each doctor treat diffrent patient
   5. Each patient has a payment and each payment belongs to one patient
-  6. The manager has several doctors under her contract and each doctor has several contract with other manager.
+  6. The administrator has several doctors under her contract and each doctor has several contract with other manager.
+  7. In case of cancellation, the system deducts ten percent of the patient's payment amount and returns the rest to the patient
 
   fullName|Id|Role
   --------|--|----
