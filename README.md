@@ -12,15 +12,15 @@ The patient appointment system is a website that includes all the tasks and step
 # Project Requirements
 
 ### Functional Requirements
-1. 
-2. 
-3. 
+1. The patient can take turns
+2. The doctor can record the hours of attendance at the office and update if necessary 
+3. The administrator can add or remove doctors from the system 
 
 
 ### non-Functional Requirements
-1. 
-2. 
-3. 
+1. The system supports all browsers
+2. Only doctors can record office hours
+3. Only the administrator can make a contract with a doctor or cancel the contract
 
 
 # Project documentation
