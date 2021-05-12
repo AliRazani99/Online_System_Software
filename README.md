@@ -28,7 +28,7 @@ The patient appointment system is a website that includes all the tasks and step
 ## Requirement assessment and project scenario
 
 
-- [Project Scenario](https://github.com/AliRazani99/Online_System_Software/tree/main/Documentaion/Requirements%20and%20scenario)
+- [Project Scenario](https://github.com/AliRazani99/Online_System_Software/blob/main/Documentaion/Requirements%20and%20scenario/Scenario.md)
 
 
 - [Requirements assessment](https://github.com/AliRazani99/Online_System_Software/blob/main/Documentaion/Requirements%20and%20scenario/reqirement.md)
