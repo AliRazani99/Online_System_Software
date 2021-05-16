@@ -51,6 +51,14 @@ The patient appointment system is a website that includes all the tasks and step
     - Over time,the clinic management is going to be able not to hire a secretory to answer to the patient
   - The kind of people that are going to be affected by the system:
     - The doctors
+    - The patients
+    - The reciption
+    - Clinic manager
+  - Main tasks for designing system:
+    - create a database that contains doctor's main information such as name,Specialty,time of presence at clinic and so on.
+    - create a database of patient's main information such as name,age,gender,desease sort,doctor's name and so on;
+    - designe a website for clinic that includs clinic's doctor's resume,hours of presence of each doctor in clinic and includes accounting system for paying visit
+ 
     
 - **ANALYSIS**
 - **DESIGN**
