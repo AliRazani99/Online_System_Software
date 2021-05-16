@@ -61,6 +61,11 @@ The patient appointment system is a website that includes all the tasks and step
  
     
 - **ANALYSIS**
+  - Business analysis:
+    - main Problems related to current system includes:
+      1. Existence of irregularities and human mistakes when giving time to the patients
+      2. Existence of these kind of mistakes and lack of regular routine causes the office to be crowded and wastes patient's time and also contaminates the office environment         by many patients.
+      3. Due to the lack of a regular queuing system,each patient is able to cancle his/her turn with no punishment that it makes bad disorder
 - **DESIGN**
 - **IMPLEMENTATION**
 
