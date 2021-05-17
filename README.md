@@ -47,20 +47,20 @@ The patient appointment system is a website that includes all the tasks and step
 
 ## Project phasing scenario
 1. **PLANING PHASE**
-   - [Planing](https://github.com/AliRazani99/Online_System_Software/blob/main/Documentaion/Planning/planning.md)
+    - [Planing](https://github.com/AliRazani99/Online_System_Software/blob/main/Documentaion/Planning/planning.md)
     
 2. **ANALYSIS PHASE**
-   - [ANALYSIS INTRODUCTION](https://github.com/AliRazani99/Online_System_Software/blob/main/Documentaion/Analysis/Analysis%20introduction.md)
- - Usecase Diagram
- - Class Diagram
- - Sequence Diagram
- - Activity Diagram
+    - [ANALYSIS INTRODUCTION](https://github.com/AliRazani99/Online_System_Software/blob/main/Documentaion/Analysis/Analysis%20introduction.md)
+    - Usecase Diagram
+    - Class Diagram
+    - Sequence Diagram
+    - Activity Diagram
   
 3. **DESIGNING PHASE**
-  - [Designing](https://github.com/AliRazani99/Online_System_Software/blob/main/Documentaion/Design/design.md)
+    - [Designing](https://github.com/AliRazani99/Online_System_Software/blob/main/Documentaion/Design/design.md)
 
 4. **IMPLEMENTATION**
-- [Implementation](https://github.com/AliRazani99/Online_System_Software/tree/main/Documentaion/Implementation)
+    - [Implementation](https://github.com/AliRazani99/Online_System_Software/tree/main/Documentaion/Implementation)
 
 
 
@@ -70,6 +70,7 @@ The patient appointment system is a website that includes all the tasks and step
 
 
 ## Project members
+### G26
   fullName|Id|Role
   --------|--|----
   sudemirzaei|@sudemirzaei|back end developer
