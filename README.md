@@ -2,6 +2,13 @@
 The patient appointment system is a website that includes all the tasks and steps that are done after the patient's request to make an appointment for her/his,including the initial admission and queuing as well as all the departments related to accounting and also the management actions of the system
 
 
+# Purposes
+- The main targets of this system:
+    - the patient can take turn online by the system
+    - Promote a culture that people do their work using online system to save time
+    - Over time,the clinic management is going to be able not to hire a secretory to answer to the patient
+
+
 
 # Technical Specifications
 - **Platform:** web
