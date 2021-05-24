@@ -3,8 +3,7 @@ The patient appointment system is a website that includes all the tasks and step
 ### the patient scenario
 - The patient types the site address in the browser search section.
 - A page will open in which the person must specify whether the person viewing site as a patient or a doctor.
-- If patient so clicking on patient's option.
-- If doctor so clicking on doctor's option and register his/her information as a clinic doctor.
+- patient so clicking on patient's option.
 - After clicking on patient's option, the patient has diffrent options such as login option, registering option and updating former information option.
 - If the patient has already registered, he / she will login to his/her page by registering the national code and password.
 - The patient refer to updating information section as needed
@@ -22,6 +21,6 @@ The patient appointment system is a website that includes all the tasks and step
 
 ### the doctor scenario
 - The doctor login to the site by typing the site address in the browser search section.
-- Then the doctor clicks the option related to doctors.
+- Then the doctor clicks the option related to doctors and register his/her information as a clinic doctor..
 - The doctor login to his/her page by registering his/her nationalId plus password.
 - After log in, the doctor determines the hours of her/his presence in the clinic for the next day
