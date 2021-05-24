@@ -11,7 +11,7 @@
   8      |website|150|7|designing a website|_
   9      |patient's database|150|7|creating a database including patient's information|_
   10     |doctor's database|150|7|creating a database including doctor's information|_
-  11     |doctor's hours at clinic|140|7|first login as a clinic's doctor then in doctor's page record his/her hours of attendance in clinic
+  11     |doctor's hours at clinic|140|7|first login as a clinic's doctor then in doctor's page record his/her hours of nextday attendance  at the clinic 
   12     |patient's information|20|7|if the patient is new,first should login and record his/her information else should sign in his/her page
   13     |patient's taking turn|150|14|first login as a clinic's patient then choose his/her disired doctor and time.
   14     |patient's visit paymant|150|7|after the patient chooses the doctor,by clicking on payment gateway,refer to accounting system that the patient records his/her bank card's information to pay visit,if the payment was successfully,the website shows a message including the doctor's name and the right time to visit doctor,if not it shows an error message
