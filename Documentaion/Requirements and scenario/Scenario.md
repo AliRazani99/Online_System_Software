@@ -1,27 +1,27 @@
 # Online patient appointment system
 The patient appointment system is a website that includes all the tasks and steps that are done after the patient's request to make an appointment for her/his,including the initial admission and queuing as well as all the departments related to accounting and also the management actions of the system
-
-# scenario
 ### the patient scenario
-- The patient enters the site address in the browser.
-- A page will open in which the patient must specify whether he or she belongs to the patient or doctor.
-- The patient enters the page related to patients by selecting the patient option.
-- After entering the patient panel, the patient is faced with the options of login, registering and changing information.
-- If the patient has already registered, he / she will enter the system by entering the national code and password.
-- If the patient needs to change her information, she can do so in the information change section.
-- If the patient enters for the first time, he must register.
-- The patient enters his / her national code, email address, name and mobile number, as well as password, and registers and enters the patients page.
-- On this page, he/she will see the options to receive appointments.
-- The patient chooses to receive an appointment.
-- A page opens and he is asked to enter his illness and the doctor he wants.
-- The system shows the hours of the doctor's presence to the patient and the patient selects the hours.
-- After taking appointment, the patient is referred to the payment page.
-- After payment, the patient is shown the message that the appointment was successful.
+- The patient types the site address in the browser search section.
+- A page will open in which the person must specify whether the person viewing site as a patient or a doctor.
+- If patient so clicking on patient's option.
+- If doctor so clicking on doctor's option and register his/her information as a clinic doctor.
+- After clicking on patient's option, the patient has diffrent options such as login option, registering option and updating former information option.
+- If the patient has already registered, he / she will login to his/her page by registering the national code and password.
+- The patient refer to updating information section as needed
+- If the patient view the site for the first time, should register his/her information .
+- In register section,the patient registers his / her national code, email address, name and mobile number as well as password.
+- On home page there is a option of taking turn.
+- The patient clicks on taking turn option.
+- On this page,the patient can see diffrent clinic's doctors in diffrent speciality plus doctor's hours of attendance in clinic.
+- The patient select the right doctor and right time to taking turn.
+- After taking turn, the patient is referred to the payment page and pay his/her visit by registerin his/her bank card information.
+- If the payment process was successfully,the system shows a message including the doctor's name plus the right time to refer to clinic.
+- If the payment process was not successfully, the system shows an error message.
 
 
 
 ### the doctor scenario
-- The doctor enters the home page by entering the site address in the browser.
-- The doctor enters the doctors page after selecting the option related to doctors.
-- Then enter by entering the national code and password.
-- After logging in, the doctor determines the hours of her/his presence in the clinic for the next day
+- The doctor login to the site by typing the site address in the browser search section.
+- Then the doctor clicks the option related to doctors.
+- The doctor login to his/her page by registering his/her nationalId plus password.
+- After log in, the doctor determines the hours of her/his presence in the clinic for the next day
