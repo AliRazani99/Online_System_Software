@@ -1,10 +1,10 @@
 # Requirements:
 ----------------------------------------------
 ## Functional Requirement:
-- The patient is enable to enter his/her information into the system
-- the patient is able to update his information if necessary
-- The patient pays his/her visit by entering the accounting system
-- The system shows the the message to the patient whether the payment for the visit was successful or not
+- The patient is able to register his/her information in the website.
+- the patient is able to update his/her information if necessary.
+- The patient pays his/her visit by refering to the payment gateway.
+- The website shows the the message to the patient whether the payment for the visit was successful or not
 
 
 ## Non-Functional Reqirement:
