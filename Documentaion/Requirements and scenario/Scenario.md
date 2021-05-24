@@ -4,9 +4,11 @@ The patient appointment system is a website that includes all the tasks and step
 # scenario
 ### the patient scenario
 - The patient enters the site address in the browser.
-- A page will open in which the patient must specify whether he or she belongs to the patient, preschool or manager category.
-- The patient enters the patient login page by selecting the patient option.
+- A page will open in which the patient must specify whether he or she belongs to the patient or doctor.
+- The patient enters the page related to patients by selecting the patient option.
+- After entering the patient panel, the patient is faced with the options of login, registering and changing information.
 - If the patient has already registered, he / she will enter the system by entering the national code and password.
+- If the patient needs to change her information, she can do so in the information change section.
 - If the patient enters for the first time, he must register.
 - The patient enters his / her national code, email address, name and mobile number, as well as password, and registers and enters the patients page.
 - On this page, he/she will see the options to receive appointments.
