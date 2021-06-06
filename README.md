@@ -42,7 +42,10 @@ The patient appointment system is a website that includes all the tasks and step
 
 
 ## System analysis and design
-
+- [Use Case Diagram]()
+- [Activity Diagram]()
+- [Class Diagram]()
+- [Sequence Diagram]()
 
 
 ## Project phasing scenario
