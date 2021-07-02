@@ -1,8 +1,12 @@
+-----------------------------------
 install node js
+-------------------------------
 install xampp
-C:\Users\HASSAN\Desktop\tabib2 ->cmd 
+----------------------------------
+- cmd 
 	1-npm i
 	2-npm run dev
+------------------------------------   
 php artisan serve
 php artisan migrate
 -------------------------------------------
