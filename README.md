@@ -42,9 +42,9 @@ The patient appointment system is a website that includes all the tasks and step
 
 
 ## System analysis and design
-- [Use Case Diagram](https://github.com/AliRazani99/Online_System_Software/blob/main/Documentaion/UsecaseDiagram/IMG_20210627_203837_961.jpg)
+- [Use Case Diagram](https://github.com/AliRazani99/Online_System_Software/blob/main/Documentaion/UsecaseDiagram/IMG_20210701_215433_576.jpg)
 - [Activity Diagram](https://github.com/AliRazani99/Online_System_Software/tree/main/Documentaion/ActivityDiagram)
-- [Class Diagram](https://github.com/AliRazani99/Online_System_Software/blob/main/Documentaion/ClassDiagram/IMG_20210627_203824_964.jpg)
+- [Class Diagram](https://github.com/AliRazani99/Online_System_Software/blob/main/Documentaion/ClassDiagram/IMG_20210701_215440_067.jpg)
 - [Sequence Diagram](https://github.com/AliRazani99/Online_System_Software/tree/main/Documentaion/SequenceDiagram)
 
 
